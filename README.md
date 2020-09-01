@@ -12,3 +12,9 @@ Tutorial for implementing a telegram bot based on JAVA
 First of all, you need
 - IDE that helps your JAVA programming and Maven, Gradle (IntelliJ, Eclipse etc)
 - Create bot, get token through 'BotFather'
+
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/67405229/91852876-61e9ff80-ec9c-11ea-821d-1a26ec8a0958.png">
+<img width="200" src="https://user-images.githubusercontent.com/67405229/91852887-66161d00-ec9c-11ea-8361-bce1ddd3a1f8.png">
+<img width="200" src="https://user-images.githubusercontent.com/67405229/91852892-67474a00-ec9c-11ea-89bf-c1e3a77eb2d6.png">
+</div>
